@@ -25,6 +25,7 @@ body::-webkit-scrollbar {
     width: 100px;
     height: 100px;
     background-image: url("/img/scoll_duihua.jpg");
+    background-repeat: no-repeat;
     background-size: contain;
     z-index: 9999;
     position: absolute;

@@ -34,7 +34,7 @@ if (document.body.clientWidth > 992) {
                 zoom: 0.9,
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
-                nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
+                nekoImg: "/img/scoll_cat.jpg",
                 hoverMsg: "喵喵喵~",
                 color: "#6f42c1",
                 during: 500,
@@ -123,7 +123,7 @@ if (document.body.clientWidth > 992) {
         //部分自定义
         $("#myscoll").nekoScroll({
             hoverMsg: '你好，喵~',
-            bgcolor: 'rgb(0 0 0 / .5)', //背景颜色，没有绳子背景图片时有效
+            bgcolor: 'rgb(248 165 194 / .5)', //背景颜色，没有绳子背景图片时有效
             borderRadius: '2em',
             zoom: 0.9,
             fontFamily: '楷体',
