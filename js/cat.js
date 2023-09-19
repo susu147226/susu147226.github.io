@@ -127,7 +127,7 @@ if (document.body.clientWidth > 992) {
             borderRadius: '2em',
             zoom: 0.9,
             fontFamily: '楷体',
-            color: '',
+            color: '#1e90ff',
             scroWidth: '8px',
             during: 1200,
             z_index:100,
@@ -136,7 +136,7 @@ if (document.body.clientWidth > 992) {
         /*
         $("#myscoll").nekoScroll({
             nekoname:'neko1', //nekoname，相当于id
-            nekoImg:'img/猫咪.png', //neko的背景图片
+            nekoImg:'img/scoll_cat.jpg', //neko的背景图片
             scImg:"img/绳1.png", //绳子的背景图片
             bgcolor:'#1e90ff', //背景颜色，没有绳子背景图片时有效
             zoom:0.9, //绳子长度的缩放值
