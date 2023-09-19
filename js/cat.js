@@ -34,7 +34,7 @@ if (document.body.clientWidth > 992) {
                 zoom: 0.9,
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
-                nekoImg: "/img/scoll_cat.jpg",
+                nekoImg: "/img/cat.png",
                 hoverMsg: "喵喵喵~",
                 color: "#6f42c1",
                 during: 500,
