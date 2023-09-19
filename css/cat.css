@@ -13,10 +13,10 @@ body::-webkit-scrollbar {
     background-size: contain;
     transform: translateX(50%);
     cursor: pointer;
-    font-family: tzy;
+    font-family: '楷体';
     font-weight: 600;
     font-size: 16px;
-    color: #6f42c1;
+    color: #ffcccc;
     display: none;
 }
 
