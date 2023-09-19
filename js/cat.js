@@ -130,6 +130,7 @@ if (document.body.clientWidth > 992) {
             color: '',
             scroWidth: '8px',
             during: 1200,
+            z_index:100,
         });
         //自定义（去掉以下注释，并注释掉其他的查看效果）
         /*
