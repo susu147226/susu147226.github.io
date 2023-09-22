@@ -1,4 +1,5 @@
 @font-face {
-    font-family: "susu" !important;
+    font-family: "susu";
+    font-display: swap;
     src: url("../font/susu.woff") format("truetype")
 }
