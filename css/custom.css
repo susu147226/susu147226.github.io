@@ -176,9 +176,9 @@ hr:before {
     /* Project id 4260278 */
     /* Color fonts */
     src:
-        url('iconfont.woff2?t=1695346044065') format('woff2'),
-        url('iconfont.woff?t=1695346044065') format('woff'),
-        url('iconfont.ttf?t=1695346044065') format('truetype');
+        url('/font/iconfont.woff2') format('woff2'),
+        url('/font/iconfont.woff') format('woff'),
+        url('/font/iconfont.ttf') format('truetype');
 }
 
 .iconfont {
