@@ -172,13 +172,12 @@ hr:before {
 } */
 
 @font-face {
-    font-family: "iconfont";
+    font-family: 'iconfont';
     /* Project id 4260278 */
-    /* Color fonts */
     src:
-        url('/font/iconfont.woff2') format('woff2'),
-        url('/font/iconfont.woff') format('woff'),
-        url('/font/iconfont.ttf') format('truetype');
+        url('//at.alicdn.com/t/c/font_4260278_ithnt8fkltc.woff2?t=1695347173106') format('woff2'),
+        url('//at.alicdn.com/t/c/font_4260278_ithnt8fkltc.woff?t=1695347173106') format('woff'),
+        url('//at.alicdn.com/t/c/font_4260278_ithnt8fkltc.ttf?t=1695347173106') format('truetype');
 }
 
 .iconfont {
