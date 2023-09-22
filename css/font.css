@@ -3,7 +3,3 @@
     font-display: swap;
     src: url("../font/susu.ttf") format("truetype")
 }
-
-body {
-    font-family: "susu";
-}
