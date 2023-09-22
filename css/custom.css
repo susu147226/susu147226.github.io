@@ -1,3 +1,5 @@
+@import "//at.alicdn.com/t/c/font_4260278_b48pjbvur5.js";
+
 #article-container h1:before,
 #article-container h2:before,
 #article-container h3:before,
@@ -16,6 +18,7 @@ hr:before {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased
 }
+
 #article-container h1:before,
 #article-container h2:before,
 #article-container h3:before,
@@ -33,9 +36,10 @@ hr:before {
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
     /* 若要使用风车效果，请去掉下面的注释 */
-    content: '\f863'; 
+    content: '\f863';
     animation: avatar_turn_around 1s linear infinite;
 }
+
 #article-container h1 {
     padding-left: 1.4rem
 }
@@ -146,7 +150,7 @@ hr:before {
     padding-left: 1.2rem
 }
 
-#article-container ol li:hover:before{
+#article-container ol li:hover:before {
     -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);
@@ -154,7 +158,7 @@ hr:before {
     transform: rotate(360deg);
 }
 
-#article-container ul li:hover:before{
+#article-container ul li:hover:before {
     -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
     -o-transform: rotate(360deg);
