@@ -172,14 +172,13 @@ hr:before {
 } */
 
 @font-face {
-    font-family: "iconfont",'susu';
+    font-family: "iconfont";
     /* Project id 4260278 */
     /* Color fonts */
     src:
         url('../font/iconfont.woff2') format('woff2'),
         url('../font/iconfont.woff') format('woff'),
-        url('../font/iconfont.ttf') format('truetype'),
-        url('../font/susu.ttf') format('truetype');
+        url('../font/iconfont.ttf') format('truetype')
 }
 
 .iconfont {
