@@ -1,5 +1,3 @@
-@import "//at.alicdn.com/t/c/font_4260278_b48pjbvur5.js";
-
 #article-container h1:before,
 #article-container h2:before,
 #article-container h3:before,
@@ -164,4 +162,129 @@ hr:before {
     -o-transform: rotate(360deg);
     -ms-transform: rotate(360deg);
     transform: rotate(360deg);
+}
+
+/* @font-face {
+    font-family: 'iconfont';
+    src: url('/font/iconfont.ttf') format('tff'),
+        url('/font/iconfont.woff') format('woff'),
+        url('/font/iconfont.woff2') format('woff2');
+} */
+
+@font-face {
+    font-family: "iconfont";
+    /* Project id 4260278 */
+    /* Color fonts */
+    src:
+        url('iconfont.woff2?t=1695346044065') format('woff2'),
+        url('iconfont.woff?t=1695346044065') format('woff'),
+        url('iconfont.ttf?t=1695346044065') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-susu:before {
+    content: "\e6f3";
+}
+
+.icon-bilibili:before {
+    content: "\e601";
+}
+
+.icon-game:before {
+    content: "\e62f";
+}
+
+.icon-yinle:before {
+    content: "\e606";
+}
+
+.icon-aixinhua:before {
+    content: "\e609";
+}
+
+.icon-newspaper:before {
+    content: "\e615";
+}
+
+.icon-tags:before {
+    content: "\e667";
+}
+
+.icon-wallpaper:before {
+    content: "\e635";
+}
+
+.icon-home:before {
+    content: "\e602";
+}
+
+.icon-manzhan:before {
+    content: "\e636";
+}
+
+.icon-xingxing:before {
+    content: "\e75b";
+}
+
+.icon-link:before {
+    content: "\e6b3";
+}
+
+.icon-collect:before {
+    content: "\e629";
+}
+
+.icon-xiangce:before {
+    content: "\e627";
+}
+
+.icon-pen:before {
+    content: "\e653";
+}
+
+.icon-xingxing1:before {
+    content: "\e618";
+}
+
+.icon-yule:before {
+    content: "\e643";
+}
+
+.icon-bizhi:before {
+    content: "\e649";
+}
+
+.icon-comment:before {
+    content: "\e715";
+}
+
+.icon-texiao:before {
+    content: "\e607";
+}
+
+.icon-wenzhang:before {
+    content: "\e6a8";
+}
+
+.icon-zaji:before {
+    content: "\e677";
+}
+
+.icon-xihuan:before {
+    content: "\e60e";
+}
+
+.icon-life:before {
+    content: "\e604";
+}
+
+.icon-fenlei:before {
+    content: "\e600";
 }
