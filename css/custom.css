@@ -38,6 +38,27 @@ hr:before {
     animation: avatar_turn_around 1s linear infinite;
 }
 
+#article-container h1:hover:before,
+#article-container h2:hover:before,
+#article-container h3:hover:before,
+#article-container h4:hover:before,
+#article-container h5:hover:before,
+#article-container h6:hover:before {
+    position: absolute;
+    color: #87ceeb;
+    /* 回形针 */
+    /* content: '\f0c1';   */
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    /* 若要使用风车效果，请去掉下面的注释 */
+    content: '\f863';
+    animation: avatar_turn_around 1s linear infinite;
+}
+
 #article-container h1 {
     padding-left: 1.4rem
 }
