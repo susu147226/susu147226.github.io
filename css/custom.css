@@ -17,45 +17,135 @@ hr:before {
     -webkit-font-smoothing: antialiased
 }
 
-#article-container h1:before,
-#article-container h2:before,
-#article-container h3:before,
-#article-container h4:before,
-#article-container h5:before,
-#article-container h6:before {
+#article-container h1:before {
     position: absolute;
-    color: #f47466;
-    /* 回形针 */
-    /* content: '\f0c1';   */
+    color: #a5d8ff;
+    content: '\f2dc';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    /* 若要使用风车效果，请去掉下面的注释 */
-    content: '\f863';
     animation: avatar_turn_around 1s linear infinite;
 }
 
-#article-container h1:hover:before,
-#article-container h2:hover:before,
-#article-container h3:hover:before,
-#article-container h4:hover:before,
-#article-container h5:hover:before,
-#article-container h6:hover:before {
+#article-container h1:hover:before {
     position: absolute;
-    color: #87ceeb;
-    /* 回形针 */
-    /* content: '\f0c1';   */
+    color: #faa2c1;
+    content: '\f2dc';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    /* 若要使用风车效果，请去掉下面的注释 */
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h2:before {
+    position: absolute;
+    color: #a5d8ff;
+    content: '\f699';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h2:hover:before {
+    position: absolute;
+    color: #faa2c1;
+    content: '\f699';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h3:before {
+    position: absolute;
+    color: #f47466;
+    content: '\f1b0';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h3:hover:before {
+    position: absolute;
+    color: #a5d8ff;
+    content: '\f1b0';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h4:before {
+    position: absolute;
+    color: #a5d8ff;
+    content: '\f5bc';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h4:hover:before {
+    position: absolute;
+    color: #faa2c1;
+    content: '\f5bc';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h5:before,
+#article-container h6:before{
+    position: absolute;
+    color: #a5d8ff;
     content: '\f863';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h5:hover:before,
+#article-container h6:hover:before {
+    position: absolute;
+    color: #faa2c1;
+    content: '\f863';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
     animation: avatar_turn_around 1s linear infinite;
 }
 
