@@ -3556,6 +3556,25 @@ h1.page-title + .tag-cloud-list {
     padding: 0 22px;
   }
 }
+#page-header.has-video {
+  position: relative;
+  height: 80vh !important;
+}
+#page-header.has-video #page-site-info {
+  top: 50% !important;
+  margin-top: -1.425em;
+}
+@media screen and (max-width: 768px) {
+  #page-header.has-video #page-site-info {
+    height: 7rem !important;
+    margin-top: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  #page-header.has-video #page-site-info {
+    height: 14rem !important;
+  }
+}
 #page-header.not-top-img {
   margin-bottom: 10px;
   height: 60px;
