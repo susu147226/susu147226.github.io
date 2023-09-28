@@ -3,3 +3,9 @@
     font-display: swap;
     src: url("../font/susu.woff") format("woff")
 }
+
+@font-face {
+    font-family: "timelove";
+    font-display: swap;
+    src: url("../font/timelove.woff") format("woff")
+}
