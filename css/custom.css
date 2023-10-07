@@ -19,8 +19,8 @@ hr:before {
 
 #article-container h1:before {
     position: absolute;
-    color: #a5d8ff;
-    content: '\f2dc';
+    color: #faa2c1;
+    content: '\f4d8';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -32,8 +32,8 @@ hr:before {
 
 #article-container h1:hover:before {
     position: absolute;
-    color: #faa2c1;
-    content: '\f2dc';
+    color: #69db7c;
+    content: '\f4d8';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -46,7 +46,7 @@ hr:before {
 #article-container h2:before {
     position: absolute;
     color: #a5d8ff;
-    content: '\f699';
+    content: '\f2dc';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -59,7 +59,7 @@ hr:before {
 #article-container h2:hover:before {
     position: absolute;
     color: #faa2c1;
-    content: '\f699';
+    content: '\f2dc';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -71,8 +71,8 @@ hr:before {
 
 #article-container h3:before {
     position: absolute;
-    color: #f47466;
-    content: '\f1b0';
+    color: #fcc419;
+    content: '\f5bc';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -84,8 +84,8 @@ hr:before {
 
 #article-container h3:hover:before {
     position: absolute;
-    color: #a5d8ff;
-    content: '\f1b0';
+    color: #fa5252;
+    content: '\f5bc';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -98,7 +98,7 @@ hr:before {
 #article-container h4:before {
     position: absolute;
     color: #a5d8ff;
-    content: '\f5bc';
+    content: '\f699';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -111,7 +111,7 @@ hr:before {
 #article-container h4:hover:before {
     position: absolute;
     color: #faa2c1;
-    content: '\f5bc';
+    content: '\f699';
     line-height: 1;
     -webkit-transition: all .2s ease-out;
     -moz-transition: all .2s ease-out;
@@ -121,7 +121,32 @@ hr:before {
     animation: avatar_turn_around 1s linear infinite;
 }
 
-#article-container h5:before,
+#article-container h5:before {
+    position: absolute;
+    color: #a5d8ff;
+    content: '\f1b0';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
+#article-container h5:hover:before {
+    position: absolute;
+    color: #faa2c1;
+    content: '\f1b0';
+    line-height: 1;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    -ms-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+    animation: avatar_turn_around 1s linear infinite;
+}
+
 #article-container h6:before {
     position: absolute;
     color: #a5d8ff;
@@ -135,7 +160,6 @@ hr:before {
     animation: avatar_turn_around 1s linear infinite;
 }
 
-#article-container h5:hover:before,
 #article-container h6:hover:before {
     position: absolute;
     color: #faa2c1;
