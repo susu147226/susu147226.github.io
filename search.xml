@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>nvm-nodejs版本控制工具</title>
+      <link href="/post/nvm_nodejs.html"/>
+      <url>/post/nvm_nodejs.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> nodejs </category>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> nodejs </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>json-server 从入门到精通</title>
       <link href="/post/json_server.html"/>
       <url>/post/json_server.html</url>
