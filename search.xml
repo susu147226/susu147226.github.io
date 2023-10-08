@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>基于Hexo搭建个人博客（二）</title>
+      <link href="/post/1.html"/>
+      <url>/post/1.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于Hexo搭建个人博客（一）</title>
       <link href="/post/0.html"/>
       <url>/post/0.html</url>
