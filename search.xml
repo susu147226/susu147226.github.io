@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>基于Hexo搭建个人博客（四）</title>
+      <link href="/post/hexo_butterfly_4.html"/>
+      <url>/post/hexo_butterfly_4.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>基于Hexo搭建个人博客（三）</title>
+      <link href="/post/hexo_butterfly_3.html"/>
+      <url>/post/hexo_butterfly_3.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>nvm-nodejs版本控制工具</title>
       <link href="/post/nvm_nodejs.html"/>
       <url>/post/nvm_nodejs.html</url>
