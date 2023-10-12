@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>hexo标签外挂</title>
+      <link href="/post/hexo_tag_plugins.html"/>
+      <url>/post/hexo_tag_plugins.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> hexo </category>
+          
+          <category> 拓展 </category>
+          
+          <category> Tag Plugins </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Tag Plugins </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo中使用emoji表情</title>
       <link href="/post/hexo_emoji.html"/>
       <url>/post/hexo_emoji.html</url>
