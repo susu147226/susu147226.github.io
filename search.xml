@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Git命令解析及操作流程</title>
+      <link href="/post/git_command.html"/>
+      <url>/post/git_command.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 工具 </category>
+          
+          <category> git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Git分布式版本控制工具</title>
       <link href="/post/git_tool.html"/>
       <url>/post/git_tool.html</url>
