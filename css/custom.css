@@ -32,7 +32,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h1:hover:before {
@@ -45,7 +45,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h2:before {
@@ -58,7 +58,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h2:hover:before {
@@ -71,7 +71,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h3:before {
@@ -84,7 +84,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h3:hover:before {
@@ -97,7 +97,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h4:before {
@@ -110,7 +110,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h4:hover:before {
@@ -123,7 +123,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h5:before {
@@ -136,7 +136,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h5:hover:before {
@@ -149,7 +149,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h6:before {
@@ -162,7 +162,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h6:hover:before {
@@ -175,7 +175,7 @@ hr:before {
     -o-transition: all .2s ease-out;
     -ms-transition: all .2s ease-out;
     transition: all .2s ease-out;
-    animation: avatar_turn_around 1s linear infinite;
+    animation: avatar_turn_around 3s linear infinite;
 }
 
 #article-container h1 {
